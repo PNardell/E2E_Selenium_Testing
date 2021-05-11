@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "E2E_Selenium_Testing": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
